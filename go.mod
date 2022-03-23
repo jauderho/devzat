@@ -10,7 +10,7 @@ require (
 	github.com/fatih/color v1.13.0 // indirect
 	github.com/gliderlabs/ssh v0.3.3
 	github.com/gomarkdown/markdown v0.0.0-20220310201231-552c6011c0b8 // indirect
-	github.com/jwalton/gchalk v1.2.1
+	github.com/jwalton/gchalk v1.3.0
 	github.com/lucasb-eyer/go-colorful v1.2.0 // indirect
 	github.com/mattn/go-colorable v0.1.12 // indirect
 	github.com/mattn/go-runewidth v0.0.13 // indirect
