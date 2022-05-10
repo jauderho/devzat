@@ -8,7 +8,7 @@ require (
 	github.com/dghubble/go-twitter v0.0.0-20220413154426-14d8abde2e80
 	github.com/dghubble/oauth1 v0.7.1
 	github.com/fatih/color v1.13.0 // indirect
-	github.com/gliderlabs/ssh v0.3.3
+	github.com/gliderlabs/ssh v0.3.4
 	github.com/gomarkdown/markdown v0.0.0-20220419181919-412bcf14cd2e // indirect
 	github.com/jwalton/gchalk v1.3.0
 	github.com/lucasb-eyer/go-colorful v1.2.0 // indirect
