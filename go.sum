@@ -86,8 +86,8 @@ github.com/shurcooL/component v0.0.0-20190503025225-90263df59ff6/go.mod h1:XhFIl
 github.com/shurcooL/htmlg v0.0.0-20190503024804-b6326af49ef6/go.mod h1:zPn1wHpTIePGnXSHpsVPWEktKXHr6+SS6x/IKRb7cpw=
 github.com/shurcooL/tictactoe v0.0.0-20210613024444-e573ff1376a3 h1:pIBdUxzMMrW4e66O0Ss9/BhcsIW0Ecld5IGCVoD0zSo=
 github.com/shurcooL/tictactoe v0.0.0-20210613024444-e573ff1376a3/go.mod h1:NmTNkTX0TfQWPw1vaTkUHX/Tq1AYt3RZ4v/D92O3c6Q=
-github.com/slack-go/slack v0.10.3 h1:kKYwlKY73AfSrtAk9UHWCXXfitudkDztNI9GYBviLxw=
-github.com/slack-go/slack v0.10.3/go.mod h1:hlGi5oXA+Gt+yWTPP0plCdRKmjsDxecdHxYQdlMQKOw=
+github.com/slack-go/slack v0.11.2 h1:IWl90Rk+jqPEVyiBytH27CSN/TFAg2vuDDfoPRog/nc=
+github.com/slack-go/slack v0.11.2/go.mod h1:hlGi5oXA+Gt+yWTPP0plCdRKmjsDxecdHxYQdlMQKOw=
 github.com/soniakeys/quant v1.0.0 h1:N1um9ktjbkZVcywBVAAYpZYSHxEfJGzshHCxx/DaI0Y=
 github.com/soniakeys/quant v1.0.0/go.mod h1:HI1k023QuVbD4H8i9YdfZP2munIHU4QpjsImz6Y6zds=
 github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
