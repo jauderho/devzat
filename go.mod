@@ -14,7 +14,7 @@ require (
 	github.com/lucasb-eyer/go-colorful v1.2.0 // indirect
 	github.com/mattn/go-colorable v0.1.12 // indirect
 	github.com/mattn/go-runewidth v0.0.13 // indirect
-	github.com/mattn/go-sixel v0.0.1
+	github.com/mattn/go-sixel v0.0.2
 	github.com/quackduck/go-term-markdown v0.13.0
 	github.com/quackduck/term v0.0.0-20220217011143-d10974b5f140
 	github.com/shurcooL/tictactoe v0.0.0-20210613024444-e573ff1376a3
