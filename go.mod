@@ -8,7 +8,7 @@ require (
 	github.com/dghubble/go-twitter v0.0.0-20220413154426-14d8abde2e80
 	github.com/dghubble/oauth1 v0.7.1
 	github.com/fatih/color v1.13.0 // indirect
-	github.com/gliderlabs/ssh v0.3.3
+	github.com/gliderlabs/ssh v0.3.5
 	github.com/gomarkdown/markdown v0.0.0-20220419181919-412bcf14cd2e // indirect
 	github.com/jwalton/gchalk v1.3.0
 	github.com/lucasb-eyer/go-colorful v1.2.0 // indirect
@@ -20,10 +20,10 @@ require (
 	github.com/shurcooL/tictactoe v0.0.0-20210613024444-e573ff1376a3
 	github.com/slack-go/slack v0.10.3
 	github.com/soniakeys/quant v1.0.0 // indirect
-	golang.org/x/crypto v0.0.0-20220427172511-eb4f295cb31f // indirect
+	golang.org/x/crypto v0.0.0-20220826181053-bd7e27e6170d // indirect
 	golang.org/x/image v0.0.0-20220413100746-70e8d0d3baa9 // indirect
-	golang.org/x/net v0.0.0-20220425223048-2871e0cb64e4 // indirect
-	golang.org/x/sys v0.0.0-20220422013727-9388b58f7150 // indirect
+	golang.org/x/net v0.0.0-20220826154423-83b083e8dc8b // indirect
+	golang.org/x/sys v0.0.0-20220825204002-c680a09ffe64 // indirect
 )
 
 require (
@@ -40,5 +40,5 @@ require (
 	github.com/kyokomi/emoji/v2 v2.2.9 // indirect
 	github.com/mattn/go-isatty v0.0.14 // indirect
 	github.com/rivo/uniseg v0.2.0 // indirect
-	golang.org/x/term v0.0.0-20220411215600-e5f449aeb171 // indirect
+	golang.org/x/term v0.0.0-20220722155259-a9ba230a4035 // indirect
 )
