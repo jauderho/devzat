@@ -6,7 +6,7 @@ require (
 	github.com/acarl005/stripansi v0.0.0-20180116102854-5a71ef0e047d
 	github.com/alecthomas/chroma v0.10.0
 	github.com/dghubble/go-twitter v0.0.0-20220413154426-14d8abde2e80
-	github.com/dghubble/oauth1 v0.7.1
+	github.com/dghubble/oauth1 v0.7.2
 	github.com/fatih/color v1.13.0 // indirect
 	github.com/gliderlabs/ssh v0.3.3
 	github.com/gomarkdown/markdown v0.0.0-20220419181919-412bcf14cd2e // indirect
