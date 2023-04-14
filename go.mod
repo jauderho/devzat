@@ -18,7 +18,7 @@ require (
 	github.com/quackduck/go-term-markdown v0.13.0
 	github.com/quackduck/term v0.0.0-20220217011143-d10974b5f140
 	github.com/shurcooL/tictactoe v0.0.0-20210613024444-e573ff1376a3
-	github.com/slack-go/slack v0.10.3
+	github.com/slack-go/slack v0.12.2
 	github.com/soniakeys/quant v1.0.0 // indirect
 	golang.org/x/crypto v0.0.0-20220427172511-eb4f295cb31f // indirect
 	golang.org/x/image v0.0.0-20220413100746-70e8d0d3baa9 // indirect
