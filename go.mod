@@ -22,7 +22,7 @@ require (
 	github.com/slack-go/slack v0.12.3
 	golang.org/x/crypto v0.13.0
 	golang.org/x/image v0.12.0
-	google.golang.org/grpc v1.58.2
+	google.golang.org/grpc v1.58.3
 	gopkg.in/yaml.v2 v2.4.0
 )
 
