@@ -18,7 +18,7 @@ require (
 	github.com/shurcooL/tictactoe v0.0.0-20210613024444-e573ff1376a3
 	github.com/slack-go/slack v0.12.2
 	golang.org/x/image v0.7.0
-	google.golang.org/grpc v1.54.0
+	google.golang.org/grpc v1.56.3
 	google.golang.org/protobuf v1.30.0
 	gopkg.in/yaml.v2 v2.4.0
 )
