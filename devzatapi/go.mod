@@ -4,7 +4,7 @@ go 1.20
 
 require (
 	github.com/quackduck/devzat/plugin v0.0.0-20230715201334-cc16f25360de
-	google.golang.org/grpc v1.56.1
+	google.golang.org/grpc v1.56.3
 )
 
 require (
