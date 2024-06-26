@@ -21,7 +21,7 @@ require (
 	github.com/shurcooL/tictactoe v0.0.0-20210613024444-e573ff1376a3
 	github.com/slack-go/slack v0.12.3
 	golang.org/x/crypto v0.13.0
-	golang.org/x/image v0.12.0
+	golang.org/x/image v0.18.0
 	google.golang.org/grpc v1.58.2
 	gopkg.in/yaml.v2 v2.4.0
 )
@@ -52,7 +52,7 @@ require (
 	golang.org/x/net v0.15.0 // indirect
 	golang.org/x/sys v0.12.0 // indirect
 	golang.org/x/term v0.12.0 // indirect
-	golang.org/x/text v0.13.0 // indirect
+	golang.org/x/text v0.16.0 // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20230920204549-e6e6cdab5c13 // indirect
 	google.golang.org/protobuf v1.31.0 // indirect
 )
